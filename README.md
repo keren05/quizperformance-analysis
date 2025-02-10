@@ -29,6 +29,9 @@ To start the application, run:
 ```bash
 streamlit run app.py
 ```
+#Screenshots
+![image](https://github.com/user-attachments/assets/9d84e1df-967c-4c0b-9ab1-8aa060f9f17e)
+
 
 ### Folder Structure
 ```
